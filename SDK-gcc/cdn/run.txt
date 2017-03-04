@@ -1,0 +1,2 @@
+./bin/cdn /home/ljl/workspace/competition/SDK-gcc/cdn/case_example/case0.txt /home/ljl/workspace/competition/SDK-gcc/cdn/result/result.txt
+
